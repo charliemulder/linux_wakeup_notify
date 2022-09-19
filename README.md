@@ -1,1 +1,1 @@
-# linux_wakeup_tg_notify
+The script will use Linux wakeup app, send to your TG bot.
