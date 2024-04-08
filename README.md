@@ -1,1 +1,1 @@
-The script will use Linux wakeup app, send to your TG bot.
+The script will use Linux wakeup app, send to your TG bot/Line Notify.
